@@ -5,7 +5,7 @@
 <a target="_blank" href="https://www.linkedin.com/in/nicolas-ma%C3%ABs-6a1b571b0/"><img align="center" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 <br/>
-- 📝 [Nicolas !](https://www.nicolasmaes.fr/)
+[Nicolas !](https://www.nicolasmaes.fr/)
 <br/>
 <div align="center">
 
