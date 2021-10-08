@@ -5,8 +5,8 @@
 
 <div align="center">
 
-[![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolasmaes&theme=synthwave)](https://github.com/Nicolasmaes/github-readme-stats)
-[![Nicolas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasmaes&theme=synthwave&layout=compact)](https://github.com/Nicolasmaes/github-readme-stats)
+[![Nicolas' GitHub stats](https://github-readme-stats.vercel.app/api?username=Nicolasmaes&theme=prussian)](https://github.com/Nicolasmaes/github-readme-stats)
+[![Nicolas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolasmaes&theme=prussian&layout=compact)](https://github.com/Nicolasmaes/github-readme-stats)
 
 
 
